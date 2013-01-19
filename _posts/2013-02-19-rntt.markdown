@@ -1,0 +1,18 @@
+---
+layout: base
+date: 2013-02-19
+author: events
+title: Personal Development Event
+permalink: /rntt
+---
+
+## Personal Development Event
+
+When: Tuesday, February 19th 2013
+
+Where: TBD, A&CS - UPB
+
+What: TBD
+
+
+

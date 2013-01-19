@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+ <head>
+ <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+ <meta name="Description" content="ROSEdu is an organization based on a community formed by programming and open-source software enthusiasts, in the educational environment." />
+ <title>ROSEdu Mailing Lists</title>
+ <link rel="shortcut icon" href="http://rosedu.org/resources/favicon.ico" />
+ <link rel="stylesheet" type="text/css" href="http://rosedu.org/style.css" />
+ <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+ <script type="text/javascript" src="http://rosedu.org/resources/js/jquery-1.4.2.min.js"></script>
+ <script type="text/javascript" src="http://rosedu.org/resources/js/application.js"></script>
+ <script type="text/javascript" src="http://rosedu.org/resources/js/cufon-yui.js"></script>
+ <script type="text/javascript" src ="http://rosedu.org/resources/js/Cambria_400.font.js"></script>
+ <script type="text/javascript">
+   Cufon.replace('h1, h2, h3');
+   Cufon.replace('#header-menu', {hover:true});
+ </script>
+ </head>
+ <body>
+ <div id="wrapper">
+  <div id="header">
+   <a href="/" id="logo-header"></a>
+
+  <div id="header-right">
+        <!--
+	<div id="flags-container">
+		<a href="/ro" id="ro-flag" class="flag ro-flag-grayed-out"><h2>H</h2></a>
+		<a href="/" id="en-flag" class="flag en-flag-full"><h2>H</h2></a>
+	</div>
+        -->
+  </div>
+  </div>
+ 
+  {% if page.show_sidebar %}
+  <div class="right-sidebar">
+      <h2>See also</h2>
+      <ul>
+          <li><a href="http://www.rosedu.org/">ROSEdu</a> - the community
+          </li>
+          <li>
+          <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FROSEdu%2F111655162229859&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80">
+                  <!-- nothing here -->
+          </iframe>
+          </li>
+      </ul>
+  </div> 
+  {% endif %}
+          
+  <div id="content">
+      {{content}}
+      {% if  page.show_sidebar %}
+      {% else %}
+      <a href="/">&laquo; home</a>
+      {% endif %}
+  </div>
+ </div>
+ </body>
+</html>
