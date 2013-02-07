@@ -6,10 +6,15 @@ title: Workshop Dezvoltarea carierei
 permalink: /dezvoltarea-carierei
 ---
 <style>
+a, a:hover, a:visited {color: #FF6103}
 span { color: #FF6103; font-weight: bold; }
 img { float: right; margin: 20px;}
 h2 { margin-bottom: 0px}
 h3 { color: #888;}
+#content {
+    background-color: #fff;
+padding: 10px;
+}
 </style>
 
 ## Workshopul Dezvoltarea carierei
@@ -34,7 +39,8 @@ Ne vedem **marţi, 19 februarie, ora 19 în sala ED010** din Facultatea de Autom
 
 
 ### RSVP
-Completează RSVP pe Facebook.
+Completează [RSVP pe Facebook](https://www.facebook.com/events/466854876703704/).
 
 ### Despre
 Evenimentul este organizat de [Orange Romania](http://orange.ro) în colaborare cu [ROSEdu](http://rosedu.org).
+
