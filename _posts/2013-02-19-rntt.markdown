@@ -2,17 +2,39 @@
 layout: base
 date: 2013-02-19
 author: events
-title: Personal Development Event
-permalink: /rntt
+title: Workshop Dezvoltarea carierei 
+permalink: /dezvoltarea-carierei
 ---
+<style>
+span { color: #FF6103; font-weight: bold; }
+img { float: right; margin: 20px;}
+h2 { margin-bottom: 0px}
+h3 { color: #888;}
+</style>
 
-## Personal Development Event
+## Workshopul Dezvoltarea carierei
+### succesul este suma ocaziilor pe care ştii să le transformi în oportunităti
 
-When: Tuesday, February 19th 2013
+![](/assets/files/banner-orange.jpg)
 
-Where: TBD, A&CS - UPB
+Îți propunem un exerciţiu: cum îţi imaginezi cariera ta?
 
-What: TBD
+Acum gândeşte-te de ce ai nevoie pentru a putea construi cariera pe care ţi-o doreşti. Alege “<span>cum</span>”, “<span>când</span>”, “<span>cu ce</span>” şi “<span>unde</span>” cu deosebită grijă, fără să pierzi din vedere planul tău de dezvoltare pe termen lung.
+
+ Cunoştinţele teoretice sau experienţele practice pe care le-ai acumulat până în acest moment nu sunt singurele tale atuuri. Vino la workshop-ul <span>Dezvoltarea carierei</span> şi află cum tu poţi fi <span>managerul propriului brand personal şi cum să îţi „programezi” cariera pe care ţi-o doreşti</span>.
+
+**vei afla**
+ * cum să te pregăteşti pentru un interviu
+ * la ce să te aştepţi tu şi la ce se aşteaptă angajatorul în timpul unui interviu
+ * cum să convingi angajatorul că eşti persoana pe care trebuie să o aibă în echipă 
+
+Vei sta de vorbă cu Viorel Nedelcu – HR Recruting Manager la Orange România, Silvia Mogoş, Recruitment Expert şi Angelica Mirică, Project Manager pentru Orange First Step. Ei îţi vor spune tot ce vrei să afli despre o carieră de succes şi vor răspunde întrebărilor tale. 
+
+Ne vedem **marţi, 19 februarie, ora 19 în sala ED010** din Facultatea de Automatică și Calculatoare,  Universitatea Politehnica din București.
 
 
+### RSVP
+Completează RSVP pe Facebook.
 
+### Despre
+Evenimentul este organizat de [Orange Romania](http://orange.ro) în colaborare cu [ROSEdu](http://rosedu.org).

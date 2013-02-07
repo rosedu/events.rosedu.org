@@ -1,9 +1,9 @@
 ---
-layout: base
+layout: basero
 show_sidebar: true
 ---
-## Current and upcoming events 
+## Evenimente curente și viitoare 
 
-* [**Personal Development Event - ROSEdu non-Tech Talks**](/rntt/) - February 19th, UPB
+* [**Workshop Dezvoltarea Carierei - ROSEdu non-Tech Talks**](/dezvoltarea-carierei/) - 19 Februarie 2013
 
 <!-- ## Past Events -->
