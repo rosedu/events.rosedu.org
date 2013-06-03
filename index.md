@@ -12,3 +12,7 @@ show_sidebar: true
 ## Evenimente recurente
 
 * [**Web Workshops**](/web-workshops/) - hands-on pe teme legate de web
+
+## Evenimente curente
+
+* [**ROSEdu Sports Day**](/sports-day/) - 15 Iunie 2013
